@@ -1,0 +1,6 @@
+theme = "gohugo-theme-ananke"
+title = "Dutch ddddStack"
+
+[taxonomies]
+tag = ""
+category = ""
