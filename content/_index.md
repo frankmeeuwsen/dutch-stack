@@ -4,7 +4,5 @@ draft = false
 title = 'Dutch Stack'
 +++
 
-# Welkom bij Dutch Stack
-
 Een landingspagina voor iets wat misschien nog gaat komen.
 
